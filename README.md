@@ -1,4 +1,3 @@
-![MasterHead](https://tudip.com/wp-content/uploads/2019/09/Blog-Header-Closure-in-Swift-1900x600.jpg) 
 
 <h1 align="center">Hi 👋, I'm Ensar Öztürk</h1>
 <h3 align="center">A passionate mobile ios developer from Turkey</h3>
